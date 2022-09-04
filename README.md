@@ -1,4 +1,4 @@
-![HeaderImg](https://github.com/LeroyYuta/LeroyYuta/blob/main/assets/img/title.png)
+![HeaderImg]()
 
 ## - Hi, my name is Valeria and I'm beginner Frontend-developer 👋
 ___
