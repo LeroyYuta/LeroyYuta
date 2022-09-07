@@ -1,9 +1,11 @@
 ![HeaderImg](https://github.com/LeroyYuta/LeroyYuta/blob/main/assets/img/header.png)
 
-## - Hi, my name is Valeria and I'm beginner Frontend-developer 👋
+<h1 align='center'> - 𝙷𝚒, 𝚖𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝚅𝚊𝚕𝚎𝚛𝚒𝚊 - <br /> 𝙸'𝚖 𝚋𝚎𝚐𝚒𝚗𝚗𝚎𝚛 𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍-𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 👋</h1>
+
 ___
 
 ### ⌨️ Languages and Tools:
+
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)
@@ -23,7 +25,7 @@ ___
 > ### *Programm*: Technosphere safety.
 >> ### *Profile:* Safety of technological processes and production.
 ___
-### 🚀 Activity
+### 🚀 Activity:
 [![codewars](https://www.codewars.com/users/LeroyYuta/badges/large)](https://www.codewars.com/users/LeroyYuta)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LeroyYuta&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
