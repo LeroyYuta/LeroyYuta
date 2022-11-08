@@ -6,13 +6,15 @@ ___
 
 ### ⌨️ Languages and Tools:
 
-![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=blue)
+![REACT](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
+![REDUX](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=Redux)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)
 ![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=SASS)
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=blue)
 ![GIT](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git)
 ![NPM](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)
-![REACT](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeroyYuta&hide=php&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ### 🖥 Other Tools:
