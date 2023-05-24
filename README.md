@@ -4,6 +4,8 @@ ___
 
 ### ⌨️ Languages and Tools:
 
+![TS](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=007ACC)
+![VUE](https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![REACT](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
 ![REDUX](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=Redux)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)
