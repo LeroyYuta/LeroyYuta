@@ -1,4 +1,4 @@
-<h1 align='center'> - 𝙷𝚒, 𝚖𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝚅𝚊𝚕𝚎𝚛𝚒𝚊 - <br /> 𝙸'𝚖 𝚋𝚎𝚐𝚒𝚗𝚗𝚎𝚛 𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍-𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 👋</h1>
+<h1 align='center'> - 𝙷𝚒, 𝚖𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝚅𝚊𝚕𝚎𝚛𝚒𝚊 - <br /> 𝙸'𝚖 𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍-𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 👋</h1>
 
 ___
 
@@ -14,9 +14,13 @@ ___
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=blue)
 ![GIT](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git)
 ![NPM](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)
+![PNPM](https://img.shields.io/badge/pnpm-black?style=for-the-badge&logo=pnpm)
+![ESLINT](https://img.shields.io/badge/eslint-black?style=for-the-badge&logo=eslint&logoColor=3A33D1)
+![PRETTIER](https://img.shields.io/badge/prettier-black?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
+### 💻 IDE:
+![VSC](https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeroyYuta&hide=php&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ### 🖥 Other Tools:
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-black?style=for-the-badge&logo=AdobePhotoshop)
 ![AdobePremierePro](https://img.shields.io/badge/Adobe_Premiere_Pro-black?style=for-the-badge&logo=AdobePremierePro)
@@ -28,9 +32,8 @@ ___
 >> ### *Profile:* Safety of technological processes and production.
 ___
 ### 🚀 Activity:
-[![codewars](https://www.codewars.com/users/LeroyYuta/badges/large)](https://www.codewars.com/users/LeroyYuta)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LeroyYuta&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![codewars](https://www.codewars.com/users/LeroyYuta/badges/large)](https://www.codewars.com/users/LeroyYuta)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LeroyYuta&title=Commits&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 ___
