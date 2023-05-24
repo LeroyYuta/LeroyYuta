@@ -1,5 +1,3 @@
-![HeaderImg](https://github.com/LeroyYuta/LeroyYuta/blob/main/assets/img/header.png)
-
 <h1 align='center'> - 𝙷𝚒, 𝚖𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝚅𝚊𝚕𝚎𝚛𝚒𝚊 - <br /> 𝙸'𝚖 𝚋𝚎𝚐𝚒𝚗𝚗𝚎𝚛 𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍-𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 👋</h1>
 
 ___
