@@ -39,7 +39,7 @@ ___
 ___
 ### 📩 Contacts:
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/leroy_yuta)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/%D0%B2%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D1%8F-%D0%BB%D1%8B%D1%81%D0%B5%D0%BD%D0%BA%D0%BE-455a87240/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/valeria-lysenko/)
 [![Habr](https://img.shields.io/badge/-Habr.career-black?style=for-the-badge&logo=Habr)](https://career.habr.com/leroyyuta)
 
 
